@@ -1,0 +1,3 @@
+Name: Luka
+Surname: Jovic
+Budget: 4000.0
